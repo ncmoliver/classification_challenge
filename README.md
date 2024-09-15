@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> Email Spam Detection For ISP</h1>
+<h1 style="text-align: center;"> 📧 Email Spam Detection For ISP</h1>
 
 ![project logo](/images/spam_logo.png)
 

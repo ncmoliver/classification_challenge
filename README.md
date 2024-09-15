@@ -6,13 +6,12 @@
 1. [Project Overview](#project-overview)
 2. [Dataset Description](https://github.com/ncmoliver/classification_challenge/blob/main/README.md#dataset-description)
 3. [Modeling Approach](https://github.com/ncmoliver/classification_challenge/blob/main/README.md#modeling-approach)
-   - [Logistic Regression](#logistic-regression)
-   - [Random Forest](#random-forest)
-4. [Results](#results)
-5. [Conclusion](#conclusion)
-6. [Future Improvements](#future-improvements)
-7. [Installation Instructions](#installation-instructions)
-8. [References](#references)
+   - [Logistic Regression](https://github.com/ncmoliver/classification_challenge?tab=readme-ov-file#logistical-regression-model)
+   - [Random Forest](https://github.com/ncmoliver/classification_challenge?tab=readme-ov-file#random-forest-model)
+4. [Results](https://github.com/ncmoliver/classification_challenge?tab=readme-ov-file#results)
+5. [Conclusion](https://github.com/ncmoliver/classification_challenge?tab=readme-ov-file#conclusion)
+6. [Future Improvements](https://github.com/ncmoliver/classification_challenge?tab=readme-ov-file#future-improvement)
+7. [References](https://github.com/ncmoliver/classification_challenge?tab=readme-ov-file#references)
 
 # Project Overview
 In today's digital world, email spam is more than just a nuisance—it's a security risk and a productivity drain. This project focuses on improving our existing email filtering system by harnessing the power of supervised machine learning.

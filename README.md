@@ -25,10 +25,10 @@ The dataset contains information about emails settings and permissions informati
 
 # Modeling Approach
 
-## Logistical Regression Model
+### Logistical Regression Model
 The **Logistic Regression** model was chosen as one of the classifiers due to its simplicity and effectiveness in binary classification tasks. I scaled the data using **StandardScaler** and then fitted the logistic regression model using the training data. The model was evaluated based on its accuracy in predicting spam from the test set.
 
-## Random Forest Model
+### Random Forest Model
 The **Random Forest** model was selected as the second classifier because of its ability to handle imbalanced data and complex patterns within the dataset. After scaling the data, I trained the Random Forest model using the training set and predicted spam using the test set.
 
 # Results
@@ -42,10 +42,10 @@ The performance of the two models was measured using the accuracy score on the t
 # Conclusion
 Through this project, I successfully implemented two supervised machine learning models to improve an ISP's email filtering system. The **Random Forest model** performed better than the **Logistic Regression model**, achieving a higher accuracy in identifying spam emails.
 # Future Improvement
-## Incorporate Additional Features
+### Incorporate Additional Features
 Although it is not clear the overall basis of this dataset, whether it is looking at the email's package settings from sender to receiver, however the more relevant data you feed the model to train on the better the chances of the model. 
 
-## Explore Additional Algorithms
+### Explore Additional Algorithms
 We could test more models that are known to  perform well in classification and handle imbalanced data efficiently. 
 
 # References 

@@ -50,6 +50,6 @@ Although it is not clear the overall basis of this dataset, whether it is lookin
 We could test more models that are known to  perform well in classification and handle imbalanced data efficiently. 
 
 # References 
-[Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313)
-[Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
-[UNC Archived Assignments](https://bootcampspot.instructure.com)
+[Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313)    
+[Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)    
+[UNC Archived Assignments](https://bootcampspot.instructure.com)    
